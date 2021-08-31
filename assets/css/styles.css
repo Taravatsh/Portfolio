@@ -198,12 +198,12 @@ header.masthead h2 {
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: #1a252f;
+    background-color:darkslategray;
     color: #fff;
 }
 
 .copyright {
-    background-color: #1a252f;
+    background-color:darkslategray;
 }
 
 a:focus,
@@ -243,14 +243,14 @@ a:active {
 }
 
 .btn-primary {
-    background-color: #30336b;
-    border-color: #30336b;
+    background-color: lightslategrey;
+    border-color: lightslategrey;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-    background-color: #30336b !important;
-    border-color: #30336b !important;
+    background-color: lightslategrey !important;
+    border-color:lightslategrey !important;
     color: #fff;
 }
